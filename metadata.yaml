@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '33680'
     url: http://www.gutenberg.org/2009/agents/33680
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29077#Byzantine-Churches-in-Constantinople--Their-History-and-Architecture
 gutenberg_issued: '2009-06-09'
 gutenberg_type: Text
 identifiers:
